@@ -16,7 +16,7 @@ export default function RootLayout({ children }) {
     <ClerkProvider>
       <html lang="en">
         <head>
-          <link rel="icon" href="/logo-sm.png" sizes="any" />
+          <link rel="icon" href="/FinSightwhite.png" sizes="any" />
         </head>
         <body className={`${inter.variable} font-sans antialiased`}>
           <Header />
